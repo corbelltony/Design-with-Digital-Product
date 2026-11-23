@@ -1,0 +1,77 @@
+[
+  {
+    "path": "changelog-update-workflow.pdf",
+    "type": "PDF",
+    "pages": 4,
+    "valid": true
+  },
+  {
+    "path": "changelog.pdf",
+    "type": "PDF",
+    "pages": 5,
+    "valid": true
+  },
+  {
+    "path": "evidence/videos/Hands_Free_Voice_Nov17_00-02min_ORIGINAL_AUDIO.mp4",
+    "type": "MP4",
+    "duration": "120.042000",
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "evidence/videos/Touchscreen_Home_Media_System_Nov17_FULL.mp4",
+    "type": "MP4",
+    "duration": "45.966667",
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "guide.pdf",
+    "type": "PDF",
+    "pages": 9,
+    "valid": true
+  },
+  {
+    "path": "showcase.mp4",
+    "type": "MP4",
+    "duration": "71.000000",
+    "streams": [
+      {
+        "codec_name": "h264",
+        "codec_type": "video",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "codec_name": "aac",
+        "codec_type": "audio"
+      }
+    ]
+  },
+  {
+    "path": "test-report.pdf",
+    "type": "PDF",
+    "pages": 9,
+    "valid": true
+  }
+]

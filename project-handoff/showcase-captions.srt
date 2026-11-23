@@ -1,0 +1,84 @@
+1
+00:00:00,016 --> 00:00:04,632
+Meet Cheddar Hub, my customizable
+Raspberry Pi home dashboard.
+
+2
+00:00:04,848 --> 00:00:08,518
+I began by creating Cheddar,
+an animated mascot that gives
+
+3
+00:00:08,518 --> 00:00:10,351
+the interface its personality.
+
+4
+00:00:11,007 --> 00:00:14,693
+With AI-assisted coding, I
+built and refined a Flask
+
+5
+00:00:14,711 --> 00:00:16,432
+dashboard running on the Pi.
+
+6
+00:00:18,024 --> 00:00:22,272
+The live screen combines time,
+system health, and everyday tools.
+
+7
+00:00:22,599 --> 00:00:26,303
+Flask serves it, while Chromium
+runs the touchscreen kiosk.
+
+8
+00:00:27,043 --> 00:00:30,675
+Touch-friendly navigation makes
+it easy to move between Home,
+
+9
+00:00:30,828 --> 00:00:33,293
+Media, and other dashboard pages.
+
+10
+00:00:35,007 --> 00:00:37,458
+YouTube and YouTube Music
+are built in.
+
+11
+00:00:37,929 --> 00:00:43,447
+Getting audio working through the
+WM8960 soundboard took trial and error.
+
+12
+00:00:44,050 --> 00:00:47,795
+I tested the working prototype
+repeatedly, fixing touchscreen
+
+13
+00:00:47,810 --> 00:00:51,789
+glitches and troubleshooting graphics
+freezes to improve reliability.
+
+14
+00:00:52,048 --> 00:00:56,083
+In Fusion 360, I designed the
+enclosure around the display,
+
+15
+00:00:56,164 --> 00:00:58,474
+speakers, cables, and cooling.
+
+16
+00:00:59,003 --> 00:01:02,462
+Later development added
+printer telemetry and a tested,
+
+17
+00:01:02,525 --> 00:01:04,729
+authenticated voice command bridge.
+
+18
+00:01:04,956 --> 00:01:08,875
+Cheddar Hub: built, tested,
+and still evolving.
